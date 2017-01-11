@@ -2,7 +2,7 @@
   "name": "redux-thunk",
   "version": "2.1.0",
   "description": "Thunk middleware for Redux.",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "jsnext:main": "es/index.js",
   "typings": "./index.d.ts",
   "files": [
